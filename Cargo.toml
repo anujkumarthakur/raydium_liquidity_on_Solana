@@ -1,0 +1,10 @@
+[package]
+name = "raydium_liquidity_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-client = "1.16.2"
+solana-sdk = "1.16.2"
+spl-token = "3.5.0"
+dotenv = "0.15.0"
